@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardiSmartWatch</string>
+
+    <string-array name="week">
+        <item>1 week</item>
+        <item>2 week</item>
+    </string-array>
+</resources>
